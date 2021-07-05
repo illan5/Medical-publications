@@ -14,4 +14,4 @@ python3 main.py
 
 ## Example
 
-![Ecample image](https://github.com/illan5/assestment/blob/main/example.png)
+![Ecample image](https://github.com/illan5/Medical-publications/blob/main/example_medical.png)
